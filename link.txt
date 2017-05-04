@@ -1,0 +1,2 @@
+https://pythonprogramming.net/changing-pygame-icon/?completed=/pause-game-pygame/
+https://www.youtube.com/watch?v=MkZXaDQfTSo // The Stolen Crown - A Fantasy RPG written in Python using Pygame
