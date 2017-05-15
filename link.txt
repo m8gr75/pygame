@@ -2,10 +2,20 @@ https://pythonprogramming.net/changing-pygame-icon/?completed=/pause-game-pygame
 https://www.youtube.com/watch?v=MkZXaDQfTSo // The Stolen Crown - A Fantasy RPG written in Python using Pygame
 
 game:
+
+Avanzato
 [python and pygame] My very first [fixed] Platformer - First objects and moving enemies
 https://www.youtube.com/watch?v=0XixVkq3Iyg
 https://github.com/skoam/fumiko-pygame/tree/master/images/chipset
 
-https://github.com/codingchili/py-race [ pyrace  idea menu immagine]
+Avanzato + [ pyrace  idea menu immagine]
 
-https://github.com/Achilles-96/DonkeyKong [Donkey Kong]
+https://github.com/codingchili/py-race 
+
+Avanzato [Donkey Kong]
+https://github.com/Achilles-96/DonkeyKong 
+
+
+Intermedio [super mario bros]
+https://www.youtube.com/watch?v=kntdbhoBUjU
+https://github.com/Thickney/PyGameSMB 
