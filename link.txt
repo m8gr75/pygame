@@ -19,3 +19,5 @@ https://github.com/Achilles-96/DonkeyKong
 Intermedio [super mario bros]
 https://www.youtube.com/watch?v=kntdbhoBUjU
 https://github.com/Thickney/PyGameSMB 
+
+programarcadegames.com/index.php?lang=en&chapter=example_code_platform
